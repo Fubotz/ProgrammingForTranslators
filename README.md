@@ -1,3 +1,8 @@
-# VIVA 2019 TU Dresden Mini-NLP-example
+# Programmieren für ÜbersetzerInnen 
 
-This is a mini-example of syntactic NLP processing with SpaCy for the NLP lecture of the VIVA 2019 Summer School at TU Dresden.
+Dieses Notebook stellt praktische und interaktive Programmierübungen als ersten Einstieg in die Welt des Programmierens zur Verfügung. Um die Programme ändern und ausführen zu können, klicken Sie bitte auf die Schaltfläche "launch binder":
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgromann/ProgrammingForTranslators/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/dgromann/ProgrammingForTranslators/master
