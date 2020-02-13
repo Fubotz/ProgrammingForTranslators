@@ -8,7 +8,7 @@ Eine andere Möglichkeit diese Übungen zu absolvieren ist das folgende Binder-I
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgromann/ProgrammingForTranslators/master)
 
-## Weiterführende Tutorials Informationen 
+## Weiterführende Tutorials und Informationen 
 
 Die verwendete Umgebung zur Bearbeitung der Beispiele ist: 
 * Anaconda (https://www.anaconda.com/) und das Jupyter Notebook darin 
