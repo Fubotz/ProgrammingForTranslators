@@ -8,20 +8,20 @@ Eine andere Möglichkeit diese Übungen zu absolvieren ist das folgende Binder-I
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgromann/ProgrammingForTranslators/master)
 
-# Weiterführende Tutorials Informationen 
+## Weiterführende Tutorials Informationen 
 
 Die verwendete Umgebung zur Bearbeitung der Beispiele ist: 
-Anaconda (https://www.anaconda.com/) und das Jupyter Notebook darin 
-spaCy (https://spacy.io/usage) für NLP 
-sklearn (https://scikit-learn.org/stable/) zur Termextraktion
+* Anaconda (https://www.anaconda.com/) und das Jupyter Notebook darin 
+* spaCy (https://spacy.io/usage) für NLP 
+* sklearn (https://scikit-learn.org/stable/) zur Termextraktion
 
 
 Weiterführende Workshops und Tutorials: 
-eine umfangreiche Sammlung an Tutorien und Literatur: https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
-gutes, interaktives Tutorial: https://www.learnpython.org/en/Hello%2C_World%21
-spielerisches Lernen (visuelle Lernumgebung mit 3D-Blöcken): https://codetheblocks.com/tutorials/python_statements
-wirklich spielerisches Lernen - mithilfe von Videospielen: https://www.codingame.com/start 
-Literatur mit Code-Beispielen: https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf 
+* eine umfangreiche Sammlung an Tutorien und Literatur: https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
+* gutes, interaktives Tutorial: https://www.learnpython.org/en/Hello%2C_World%21
+* spielerisches Lernen (visuelle Lernumgebung mit 3D-Blöcken): https://codetheblocks.com/tutorials/python_statements
+* wirklich spielerisches Lernen - mithilfe von Videospielen: https://www.codingame.com/start 
+* Literatur mit Code-Beispielen: https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf 
 
 Code-Challenge: 
 leichte bis schwere Challenges für alle Programmierer: https://www.coderbyte.com/editor/First%20Factorial:Python3 
