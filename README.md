@@ -18,6 +18,7 @@ Die verwendete Umgebung zur Bearbeitung der Beispiele ist:
 
 Weiterführende Workshops und Tutorials: 
 * eine umfangreiche Sammlung an Tutorien und Literatur: https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
+* interaktives, umfangreiches Tutorial: https://www.w3schools.com/python/default.asp
 * gutes, interaktives Tutorial: https://www.learnpython.org/en/Hello%2C_World%21
 * spielerisches Lernen (visuelle Lernumgebung mit 3D-Blöcken): https://codetheblocks.com/tutorials/python_statements
 * wirklich spielerisches Lernen - mithilfe von Videospielen: https://www.codingame.com/start 
