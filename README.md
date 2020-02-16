@@ -3,13 +3,13 @@
 Diese Notebooks stellen praktische und interaktive Programmierübungen als ersten Einstieg in die Welt des Programmierens zur Verfügung. Es gibt drei Arten dieses Tutorial zu nutzen: 
 
 *Ordner "tutorial"*: <br>
-Die Notebooks auf der ersten Seite sind für die Verwendung in Ihrer bevorzugten Jupyter-Umgebung gedacht (z. B. wie mit Anaconda direkt installiert - siehe unten). 
+Die Jupyter-Notebooks in diesem Ordner sind für die Verwendung in Ihrer bevorzugten Jupyter-Umgebung gedacht (z. B. wie mit Anaconda direkt installiert - siehe unten). 
 
 *Ordner "colab"*: <br>
 Die Notebooks im Ordner "colab" können Sie direkt in Google Colab verwenden, indem Sie am Anfang jedes Notebooks auf "Open in Colab" klicken. Um den Code auszuführen müssen Sie sich allerdings mit einem Google Account (gmail) anmelden. Google Colab funktioniert in den meisten Browsern (z. B. Google Chrome, Firefox) aber leider nicht im Internet Explorer. 
 
 *Link zu "binder"*:<br>
-Eine andere Möglichkeit diese Übungen zu absolvieren ist das folgende Binder-Image zu aktivieren (leider keine Verfügbarkeit nach 20 Minuten Inaktivität):
+Eine andere Möglichkeit diese Übungen zu absolvieren ist das folgende Binder-Image zu aktivieren (nach 20 Minuten Inaktivität muss der Link wieder neu geöffnet werden):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgromann/ProgrammingForTranslators/master)
 
