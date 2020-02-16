@@ -8,7 +8,7 @@ Die Notebooks auf der ersten Seite sind für die Verwendung in Ihrer bevorzugten
 *Ordner "colab"*: <br>
 Die Notebooks im Ordner "colab" können Sie direkt in Google Colab verwenden, indem Sie am Anfang jedes Notebooks auf "Open in Colab" klicken. Um den Code auszuführen müssen Sie sich allerdings mit einem Google Account (gmail) anmelden. Google Colab funktioniert in den meisten Browsern (z. B. Google Chrome, Firefox) aber leider nicht im Internet Explorer. 
 
-*Ordner "binder" (zu starten von dem nachstehenden Link)*:<br>
+*Link zu "binder"*:<br>
 Eine andere Möglichkeit diese Übungen zu absolvieren ist das folgende Binder-Image zu aktivieren (leider keine Verfügbarkeit nach 20 Minuten Inaktivität):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgromann/ProgrammingForTranslators/master)
