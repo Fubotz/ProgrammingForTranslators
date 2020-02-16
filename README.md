@@ -1,6 +1,6 @@
 # Programmieren für ÜbersetzerInnen 
 
-Diese Notebooks stellen praktische und interaktive Programmierübungen als ersten Einstieg in die Welt des Programmierens zur Verfügung. Es gibt drei Arten dieses Tutorial zu nutzen: 
+Diese Notebooks stellen praktische und interaktive Programmierübungen als ersten Einstieg in die Welt des Programmierens zur Verfügung. Es gibt drei Möglichkeiten dieses Tutorial zu starten: 
 
 *Ordner "tutorial"*: <br>
 Die Jupyter-Notebooks in diesem Ordner sind für die Verwendung in Ihrer bevorzugten Jupyter-Umgebung gedacht (z. B. wie mit Anaconda direkt installiert - siehe unten). 
