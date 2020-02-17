@@ -9,7 +9,7 @@ Die Jupyter-Notebooks in diesem Ordner sind für die Verwendung in Ihrer bevorzu
 Die Notebooks im Ordner "colab" können Sie direkt in Google Colab verwenden, indem Sie am Anfang jedes Notebooks auf "Open in Colab" klicken. Um den Code auszuführen müssen Sie sich allerdings mit einem Google Account (gmail) anmelden. Google Colab funktioniert in den meisten Browsern (z. B. Google Chrome, Firefox) aber leider nicht im Internet Explorer. 
 
 *Link zu "binder"*:<br>
-Eine andere Möglichkeit diese Übungen zu absolvieren ist das folgende Binder-Image zu aktivieren (nach 20 Minuten Inaktivität muss der Link wieder neu geöffnet werden):
+Eine andere Möglichkeit diese Übungen zu absolvieren ist das folgende Binder-Image zu aktivieren (nach 20 Minuten Inaktivität muss der Link wieder neu geöffnet werden). Bitte verwenden Sie den Ordner "tutorial" auf Binder. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgromann/ProgrammingForTranslators/master)
 
