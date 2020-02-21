@@ -42,4 +42,4 @@ leichte bis schwere Challenges für alle Programmierer: https://www.coderbyte.co
 Entzückende interaktive Seite für Kinder: 
 https://www.codesters.com/explore/#featured_projects 
   
-
+Wenn Sie die Basis einmal gelernt haben und ein Problem in Ihrem Programm nicht lösen können, dann ist das folgende Forum eine ideale Quelle um nach Antworten zu suchen und Fragen zu stellen (inklusive Code-Beispielen), die individuell von ExpertInnen beantwortet werden: https://stackoverflow.com/ 
